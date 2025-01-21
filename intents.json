@@ -1,0 +1,118 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": ["Hello", "Hi", "Good morning", "Good evening", "Hey"]
+    },
+    {
+      "intent": "customer_service",
+      "examples": [
+        "I need help with my order.",
+        "Can you help with a problem?",
+        "I have an issue with my purchase.",
+        "I need assistance with customer service.",
+        "Can you help me with something?"
+      ]
+    },
+    {
+      "intent": "order_tracking",
+      "examples": [
+        "Where is my order?",
+        "Can you track my package?",
+        "What's the status of my delivery?",
+        "I need help tracking my order.",
+        "Can you check where my order is?"
+      ]
+    },
+    {
+      "intent": "returns_refunds",
+      "examples": [
+        "I want to return my order.",
+        "Can you help with a refund?",
+        "How do I return a product?",
+        "I need a refund.",
+        "Can you process a return for me?"
+      ]
+    },
+    {
+      "intent": "general_support",
+      "examples": [
+        "I need help with my account.",
+        "Can you help me with an issue?",
+        "I have a general question.",
+        "Can I get some assistance?",
+        "I need support with something."
+      ]
+    },
+    {
+      "intent": "payment_issues",
+      "examples": [
+        "I was charged incorrectly.",
+        "Can you help with a payment issue?",
+        "My payment didn't go through.",
+        "I need help with a billing issue.",
+        "Why was my card declined?"
+      ]
+    },
+    {
+      "intent": "account_management",
+      "examples": [
+        "I want to update my account details.",
+        "How do I change my password?",
+        "Can you help me reset my account?",
+        "I need to update my payment information.",
+        "How can I delete my account?"
+      ]
+    },
+    {
+      "intent": "product_inquiries",
+      "examples": [
+        "Can you tell me more about this product?",
+        "Is this item in stock?",
+        "How do I use this product?",
+        "Can you recommend a product?",
+        "What's the warranty on this item?"
+      ]
+    },
+    {
+      "intent": "technical_support",
+      "examples": [
+        "I'm having trouble with my device.",
+        "Can you help me with a technical issue?",
+        "The app isn't working correctly.",
+        "How do I troubleshoot this error?",
+        "My product isn't functioning properly."
+      ]
+    },
+    {
+      "intent": "shipping_inquiries",
+      "examples": [
+        "When will my order arrive?",
+        "How long does shipping take?",
+        "Can I expedite my shipping?",
+        "What are the shipping options?",
+        "I need to change my shipping address."
+      ]
+    },
+    {
+      "intent": "promotions_discounts",
+      "examples": [
+        "Are there any current promotions?",
+        "Can I use multiple discounts?",
+        "How do I apply a coupon?",
+        "Is there a student discount available?",
+        "Do you offer discounts for bulk orders?"
+      ]
+    },
+    {
+      "intent": "unknown",
+      "examples": [
+        "I have a question.",
+        "Can you help me?",
+        "I need assistance.",
+        "I'm not sure how to ask this.",
+        "Can you clarify something for me?"
+      ]
+    }
+  ]
+}
